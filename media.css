@@ -1,18 +1,18 @@
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 900px) {
     .caixa {
-        width: 100% !important;
+        width: 90% !important;
         padding: 0;
-        height: 270px;
+        height: 100%;
        
     }
 
     .caixa.caixa:nth-child(2n){
-        height: 350px;
+        height: 100%;
     }
 
     .caixa.caixa:nth-child(3n){
         padding: 0;
-        height: 200px;
+        height: 100%;
     }
 
     .formulario input {
@@ -20,11 +20,11 @@
     }
 
     .caixa h1 {
-        font-size: 16px !important;
+        font-size: 20px !important;
     }
 
     .caixa p {
-        font-size: 10px;
+        font-size: 15px;
     }
 
 

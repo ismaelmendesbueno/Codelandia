@@ -106,7 +106,9 @@ body {
     color: #313131;
 }
 
-
+.spans svg {
+    cursor: pointer;
+}
 
 .caixa p {
     color: #B6B6B6;
